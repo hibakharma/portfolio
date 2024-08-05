@@ -51,8 +51,8 @@
                         <img class="dark" src="assets/img/icons/skeatch.png" alt="Skeatch">
                     </li>
                     <li>
-                        <img class="light" src="assets/img/icons/illustrator_light.png" alt="Illustrator">
-                        <img class="dark" src="assets/img/icons/illustrator.png" alt="Illustrator">
+                        <img class="light" src="assets/img/icons/vscode.png" alt="Illustrator">
+                        <img class="dark" src="assets/img/icons/vscode.png" alt="Illustrator">
                     </li>
                     <li>
                         <img class="light" src="assets/img/icons/hotjar_light.png" alt="Hotjar">
@@ -67,8 +67,8 @@
                         <img class="dark" src="assets/img/icons/photoshop.png" alt="Photoshop">
                     </li>
                     <li>
-                        <img class="light" src="assets/img/icons/figma_light.png" alt="Figma">
-                        <img class="dark" src="assets/img/icons/figma.png" alt="Figma">
+                        <img class="light" src="assets/img/icons/phpstorm.png" alt="Figma">
+                        <img class="dark" src="assets/img/icons/phpstorm.png" alt="Figma">
                     </li>
                 </ul>
             </div>

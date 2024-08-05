@@ -6,7 +6,7 @@
                         <div class="footer__widget">
                             <div class="fw-title">
                                 <h5 class="sub-title">Contact us</h5>
-                                <h4 class="title">+81383 766 284</h4>
+                                <h4 class="title">+963 955343601</h4>
                             </div>
                             <div class="footer__widget__text">
                                 <p>There are many variations of passages of lorem ipsum
@@ -19,10 +19,10 @@
                         <div class="footer__widget">
                             <div class="fw-title">
                                 <h5 class="sub-title">my address</h5>
-                                <h4 class="title">AUSTRALIA</h4>
+                                <h4 class="title">SYRIA</h4>
                             </div>
                             <div class="footer__widget__address">
-                                <p>Level 13, 2 Elizabeth Steereyt set <br> Melbourne, Victoria 3000</p>
+                                <p>Level 0, New aleppo <br> Aleppo</p>
                                 <a href="/cdn-cgi/l/email-protection#3759584552475b4e775259415643581954585a" class="mail"><span class="__cf_email__" data-cfemail="402e2f3225302c3900252e3621342f6e232f2d">[email&#160;protected]</span></a>
                             </div>
                         </div>
